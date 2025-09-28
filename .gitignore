@@ -1,1 +1,46 @@
+# Rust
 /target
+Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
+# Data files
+data/
+logs/
+recordings/
+*.db
+*.sqlite
+
+# Temporary files
+*.tmp
+*.temp
+
+# Video files
+*.mp4
+*.avi
+*.mov
+
+# AI models
+*.onnx
+*.pt
+*.pth
+models/
+
+# Hardware specific
+gpio_config.json
+sensor_calibration.json
