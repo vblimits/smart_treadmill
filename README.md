@@ -4,7 +4,7 @@ Convert a weather-damaged Pacemaster Pro Elite into an intelligent training syst
 
 ## Features
 
-- **Real-time sensor integration**: Stryd power meter, Polar HRM, hall effect speed sensors
+- **Real-time sensor integration**: Stryd power meter, Garmin HRM-600, hall effect speed sensors
 - **Smart treadmill control**: GPIO-based button automation with safety interlocks
 - **Workout integration**: Garmin Connect API, FIT/TCX file parsing
 - **AI running form analysis**: Multi-camera pose estimation and biomechanical feedback (v2.0)
@@ -20,10 +20,10 @@ Convert a weather-damaged Pacemaster Pro Elite into an intelligent training syst
 
 ## Development Phases
 
-1. **Core System** (3-4 weeks): BLE sensors, button control, basic GUI
-2. **Enhanced Integration** (2-3 weeks): ANT+ support, data logging, cloud sync
-3. **AI Running Dynamics** (6-8 weeks): Computer vision, pose estimation, form analysis
-4. **Advanced AI** (4-6 weeks): Fatigue prediction, injury risk assessment
+1. **Core System**: BLE sensors, button control, basic GUI
+2. **Enhanced Integration**: ANT+ support, data logging, cloud sync
+3. **AI Running Dynamics**: Computer vision, pose estimation, form analysis
+4. **Advanced AI**: Fatigue prediction, injury risk assessment
 
 ## Getting Started
 
